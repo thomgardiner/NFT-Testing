@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Shepard Mix"
+      },
+      {
+        "trait_type": "Cute Level",
+        "value": "10"
+      }
+    ],
+    "description": "'Hello, I'm cute.'",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUQBYRS2zzrvsaCDi5wMCAcGDNe3ySVKY8udDyxr7ASvZ",
+    "name": "Lily"
+  }
+  
